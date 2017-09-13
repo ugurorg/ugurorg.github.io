@@ -2,128 +2,73 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
-	<title>ucuz telefonlar 2</title>
-
+	<title>SONY Z3</title>
 </head>
-<body bgcolor="red">  
-<h1 align="left"><em><font face="arial black"><font size="8" color="yellow">HOŞGEL</font><font color="pink">DİNİZ</font></font><font color="blue" face="arial" size="7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SAYFAMIZA</font></em></h1>
-<form name="uyekayıt" method="post" action="" id="" align="" >
-	
-	<fieldset>
-	
-		<legend><font size="5">ÜYE GİRİŞ PANELİ</font></legend>
-		
-		
-			<label for="adı">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ADINIZI GİRİNİZ=</label><input id="adı" name="ad" type="text" placeholder="adınız giriniz" maxlength="" value="" size=""  required="" />	
-			
-			<label for="soyadı">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SOYADI GİRİŞİ=<label><input id="soyadı" name="soyad" type="text" placeholder="soyadınızı giriniz" required=""/>
-			
-			<label for="parola">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ŞİFRENİZİ GİRİNİZ=</label><input name="parola" id="parola"type="password" placeholder="şifrenizi giriniz" required=""/>
-			
-			<input type="submit" value="giriş" />
-			<input type="reset" value="sıfırla"/>
-			
-	</fieldset>
-</form>
+<body>
 
-<form name="üye olmak" method="get">	
-		<fieldset>	
+<table border="2" align="center">
+	<caption align="bottom" ><font size="4">KDV dahildir</font></caption><br/>
+		<tr>
+			<th colspan="2"><font size="5">SONY Z3</font></th>
+		</tr>
 		
-			<legend><font size="5"><mark>BİZİ DEĞERLENDİRİN</mark></font></legend>
+		<tr>
+			<td rowspan="2"><img id="samsung" src="C:\Users\Lenovo\Desktop\wwwroot\usayan.com\images\sonyxperiaz3.jpg" width="230" height="290"/></td>
+			<td align="center" ><font size="5"><a href="#özellikler">ÖZELLİKLER e gitmek için dokunun</a></font></td>
+		</tr>
 		
-				<embed align="right" src="https://i.hizliresim.com/POv9Ev.gif" width="300" height="300"></embed>
+		<tr>
+			<td align="center"><font size="5"><a href="#resimler">RESİMLER e gitmek için dokunun</a></font></td>
+		</tr>
 		
-				<embed align="right" src="https://i.hizliresim.com/rJYrdB.gif" width="400" height="300"></embed>
 		
-				<label for="yorum alanı">BİZİ YORUMLAYIN=</label><textarea name="yorum alanı" size="60" ></textarea>
-				
-				
-				
-				<label for="puanlar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BİZİ PUANLAYIN=</label><input name="puanlar" id="puanlar"type="number" value="9" min="1" max="10" required="" /><br/><br/>
-				
-				<label>YAPILAN YORUMLAR SONUCUNDA MEMNUN KALAN MÜŞTERİ GÖSTETGESİ=</label><meter value="80" max="100" min="0"></meter></br><br/>
-				
-				<label>YAPILAN YORUMLAR SONUCUNDA MEMNUN KALMAYAN MÜŞTERİ GÖSTETGESİ=</label><meter value="20" min="0" max="100" align=""></meter></br><br/>
-				
-				<label>ÜYE DEĞİLMİSİNİZ NEDEN=</label><textarea name="neden üye değilsiniz"></textarea>		
-
-				<input type="submit" value="gönder" id="ugur"/>
-				
-			<a href=""><embed src="https://i.hizliresim.com/7y2z8m.gif"></embed></a>
-			
-	</fieldset>
-
-</form>
-	<img src="https://i.hizliresim.com/ZO2mmo.png" width="350" height="375"/>
-	<img src="https://i.hizliresim.com/vJYrrr.png" width="350" height="420"/>
-	<img src="https://i.hizliresim.com/pGv190.png" width="300" height="495"/>
-	<img src="https://i.hizliresim.com/8NmBba.png" width="400" height="420"/>
-	<embed src="https://i.hizliresim.com/LOdrdJ.gif" width="400" height="400"/></embed>
-	<embed src="https://i.hizliresim.com/o6nvY2.gif" width="300" height="300"/></embed>
-	
-<table border="3" bgcolor="pink" align="left">
-
-	<tr>
-		<td>
-		<h1>markalara gitmek için kısayollar</h1>
-			<ol>
-				<li><a href="#samsung"><font size="6">samsung a gitmek için buraya tıklayabilirsiniz(kısayol)</font></a><br/></li>
-				<li><a href="#iphone"><font size="6" color="red">iphone a gitmek için buraya tıklayabilirsiniz(kısayol)</font></a><br/></li>
-				<li><a href="#lg"><font size="6" color="green">lg e gitmek için buraya tıklayabilirsiniz(kısayol)</font></a><br/></li>
-				<li><a href="#sony"><font size="6" color="black">sony e gitmek için buraya tıklayabilirsiniz(kısayol)</font></a><br/></li>
-			</ol>	
-			<dl>
-				<dt><font size="5">facabook</font></dt>
-					<dd><ul><li><a href="http://www.facebook.com" target="_blank"><font size="6">sayfamızı facabook dan takip edebilirsiniz</font></a><br/></li></ul></dd>
-				<dt><font size="5">instagram</font></dt>	
-					 <dd><ul><li><a href="http://www.instagram.com" target="_blank"><font size="6">sayfamızı instagram dan takip edebilirsiniz</font></a></li></ul></dd>
-			    
-			</dl>
-		</td>
-	</tr>
-	
 </table>
 
+<table align="center" border="2">
 
+		<tr>
+			<td align="center" id="özellikler"><font size="8">ÖZELLİKLER</font></td>
+		</tr>
+		
+		<tr>
+			<td align="center"><font size="6">işlemci=2.5</font></td>
+		</tr>
+		
+		<tr>
+			<td align="center"><font size="6">battarya=3000 mAh</font></td>
+		</tr>
+		
+		<tr>
+			<td align="center"><font size="6">çekirdek sayısı=8</font></td>
+		</tr>
+		
+		<tr>
+			<td align="center"><font size="6">ekran özelliği=2K</font></td>
+		</tr>
+		
+		<tr>
+			<td align="center"><font size="6">ekran camı=GorillaGlass3</font></td>
+		</tr>
+		
+		<tr>
+			<td align="center"><font size="6">ön kamera=8 MP</font></td>
+		</tr>
+		
+		<tr>
+			<td align="center" id="resimler"><font size="6">arka kamera=23.7 MP</font></td>
+		</tr>
+		
+		<tr>
+			<td align="center"><font size="6">android sürümü=5.0.1</font></td>
+		</tr>
+		
+</table>
 
-
-<table align="center" border="3" cellpadding="25" cellspacing="10" width="100" height="200" bgcolor="yellow">
-	<caption align="bottom"><font color="red" size="8"><strong>kdv dahildir</strong></font></caption>
-	
+<table>
 		<tr>
-			<th><font size="6">TELEFONLAR</font></th><th><font size="6">MARKALAR</font></th><th><font size="6">MODELLER BÖLÜMÜ</font></th><th><font size="6">FİYATLAR BÖLÜMÜ</font></th><td rowspan="9"> <img width="280" height="1400" src="https://i.hizliresim.com/0GbdVD.png"/> </td>
-		</tr>
-		
-		<tr>
-			<td align="center" rowspan="1"><a href="C:\Users\Lenovo\Desktop\wwwroot\usayan.com\proje\telefonlar\samsungs6+.html"><img id="samsung" src="https://i.hizliresim.com/V32mmj.png" width="270" height="300"/></a></td>	<td align="center" rowspan="3"><b><font size="7">SAMSUNG</font></b></td><td  align="center"><b><font size="6" >s6+</font></b></td><td align="center"><font size="5">2500 tl</font></td>
-		</tr>
-		
-		<tr>
-			<td><a href="C:\Users\Lenovo\Desktop\wwwroot\usayan.com\proje\telefonlar\samsungs8+.html"><img src="http://i.hizliresim.com/vJYrrr.png" width="270" height="300"  /></a></td><td align="center" ><b><font size="6">s8+</font></b></td><td align="center"><font size="5">5500 tl</font></td>
-		</tr>
-		
-		<tr>
-			<td><a href="C:\Users\Lenovo\Desktop\wwwroot\usayan.com\proje\telefonlar\samsungs7.html"><img src="https://i.hizliresim.com/nJYZZB.png" width="270" height="300"  /></a></td><td align="center"><b><font size="6">s7</font></b></td><td align="center"><font size="5">3400 tl</font></td>
-		</tr>
-		
-		<tr>
-			<td align="center" rowspan="1"><a href="C:\Users\Lenovo\Desktop\wwwroot\usayan.com\proje\telefonlar\iphone7s.html"><img id="iphone" src="https://i.hizliresim.com/ZO2mmo.png" width="270" height="300"/></a></td>	<td align="center" rowspan="2"><b><font size="7">İPHONE</font></b></td><td align="center"><b><font size="6" id="iphone">7</font></b></td><td align="center"><font size="5">5299 tl</font></td>
-		</tr>
-		
-		<tr>
-			<td align="center" rowspan="1"><a href="C:\Users\Lenovo\Desktop\wwwroot\usayan.com\proje\telefonlar\iphone5s.html"><img src="https://i.hizliresim.com/Byo33Q.png" width="270" height="300"/></a></td><td align="center"  ><b><font size="6">5s</font></b></td><td align="center"><font size="5">1399 tl</font></td>
-		</tr>
-		
-		<tr>
-			<td align="center" rowspan="1"><a href="C:\Users\Lenovo\Desktop\wwwroot\usayan.com\proje\telefonlar\lgg3.html"><img id="lg" src="https://i.hizliresim.com/o6nooR.png" width="270" height="300"/></a></td>	<td align="center" rowspan="2" ><b><font size="7">LG</font></b></td><td align="center"><b><font size="6">G3</font></b></td><td align="center"><font size="5">799 tl</font></td>
-		</tr>
-		
-		<tr>
-			<td align="center" rowspan="1"><a href="C:\Users\Lenovo\Desktop\wwwroot\usayan.com\proje\telefonlar\lgg4.html"><img src="https://i.hizliresim.com/lbBmmg.png" width="270" height="300"/></a></td>	<td align="center"><b><font size="6">G4</font></b></td><td align="center"><font size="5">1299 tl</font></td>
-		</tr>
-		
-		<tr>
-			<td align="center" rowspan="1"><a href="C:\Users\Lenovo\Desktop\wwwroot\usayan.com\proje\telefonlar\sonyz3.html""><img id="sony" src="https://i.hizliresim.com/kXZmoy.png" width="270" height="340"/></a></td>	<td align="center" rowspan="2" ><b><font size="7">SONY</font></b></td><td align="center"><b><font size="6">Z3</font></b></td><td align="center"><font size="5">1799 tl</font></td>
+			<td><img src="C:\Users\Lenovo\Desktop\wwwroot\usayan.com\images\sonyxperiaz3.jpg" width="340" height="470"/></td>
+			<td><img src="C:\Users\Lenovo\Desktop\wwwroot\usayan.com\images\sonyxperiaz3+2.png"width="500" height="550"/></td>
+			<td><img src="C:\Users\Lenovo\Desktop\wwwroot\usayan.com\images\sonyxperiaz3+3.png"width="470" height="500"/></td>
 		</tr>
 </table>
 </body>
